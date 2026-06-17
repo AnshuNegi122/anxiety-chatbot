@@ -1,0 +1,8 @@
+{
+  "name": "mental-health-chatbot",
+  "version": "1.0.0",
+  "description": "Mental health chatbot — monorepo root (serverless API deps)",
+  "dependencies": {
+    "groq-sdk": "^0.9.0"
+  }
+}
